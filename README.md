@@ -4,22 +4,22 @@ This is project 5 of Blockchain Developer Nanodegree at Udacity. In this project
 
 ## General Information
 
-ERC-721 Token Name: **S.T.A.R. Labs**
-ERC-721 Token Symbol: **STAR**
-Truffle Version: **v5.0.2**
-OpenZeppelin: **v2.1.2**
-Rinkeby Network Token Address: 
+ERC-721 Token Name: **S.T.A.R. Labs**\
+ERC-721 Token Symbol: **STAR**\
+Truffle Version: **v5.0.2**\
+OpenZeppelin: **v2.1.2**\
+Rinkeby Network Token Address:\
 
 ## Getting Started
 
 To run this project you will need the following:
 
-1) Truffle: Truffle v5.0.2 - a development framework for Ethereum (Verify using `truffle version`)\
+1) **Truffle: Truffle v5.0.2** - a development framework for Ethereum (Verify using `truffle version`)\
 If you need to update truffle to the latest version use: `npm install -g truffle`
-2) Metamask: 5.3.1\
+2) **Metamask: 5.3.1**\
 If you need to update Metamask just delete your Metamask extension and install it again.
-3) truffle-hdwallet-provider@1.0.6 (Run this command in the project root directory: `npm install truffle-hdwallet-provider@1.0.6`)
-4) openzeppelin-solidity@2.1.2 (Run this command in the project root directory: `npm install openzeppelin-solidity@2.1.2`)
+3) **truffle-hdwallet-provider@1.0.6** (Run this command in the project root directory: `npm install truffle-hdwallet-provider@1.0.6`)
+4) **openzeppelin-solidity@2.1.2** (Run this command in the project root directory: `npm install openzeppelin-solidity@2.1.2`)
 
 ## How to run
 
